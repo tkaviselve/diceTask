@@ -1,0 +1,37 @@
+body {
+
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+.container{
+    border:solid
+}
+#whoplay{
+    text-align: center;
+}
+#winner {
+    text-align: center;
+}
+.container1 {
+    margin:50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#dice {
+    
+    justify-content: center;
+    align-items: center;
+}
+#dice-image {
+    width: 100px;
+    border: solid;
+    }
+    #restart-game{
+        margin-bottom:30px;
+        margin-left:47%;
+        background-color: coral;
+            }
